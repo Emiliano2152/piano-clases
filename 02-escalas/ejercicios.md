@@ -9,6 +9,3 @@
    - LA
    - MI
 
-3. Decime con tus palabras cuál es la diferencia entre una escala mayor y una menor (a nivel sensación).
-
-4. BONUS: tocá DO mayor y LA menor y describí qué sensación te da cada una.
