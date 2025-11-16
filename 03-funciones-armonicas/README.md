@@ -46,16 +46,11 @@ Esto te da un mapa emocional súper claro.
 
 ---
 
-## Mapa rápido (mayor)
+## Mapa rápido
 
 - **Reposo:** 1 – (3) – (6)  
 - **Subdominante:** 4 – 2  
 - **Dominante:** 5 – 7  
 
----
 
-## Para qué sirve todo esto
-- Para saber cómo mover tus melodías.  
-- Para improvisar cosas que “tienen sentido”.  
-- Para entender por qué algunas notas quieren resolver y otras no.  
-- Para anticipar progresiones.
+
