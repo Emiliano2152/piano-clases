@@ -6,13 +6,14 @@ En este ejercicio vas a tocar **acordes en bloque**, usando **las dos manos** pa
 
 ## 1) Progresión a elección
 
-Creá una mini progresión usando algunos de estos acordes:
+Creá una mini progresión usando algunos de estos acorde:
 
-* C – F – G
-* Am – F – C – G
-* Am – Em – G
+* C – F – G - Am - Em - Dm
+  
 
-El orden lo elegís vos.
+Progreciones armonicas sugeridas
+* Dm - Am - C - G
+* C - Am - Dm - G
 
 ---
 
@@ -25,6 +26,7 @@ Para cada acorde:
 * Buscá posiciones cómodas y un sonido parejo.
 
 No arpegies: es un acorde en bloque, solo que “repartido”.
+Busca que el cambio entre los acordes de la progreción que elijas, no sean bruscos y que sean cómodos.
 
 ---
 
@@ -38,6 +40,6 @@ No arpegies: es un acorde en bloque, solo que “repartido”.
 
 ## 4) Entrega
 
-Mostrame la progresión que elegiste y dos o tres formas distintas de distribuir cada acorde.
+Mostrame la progresión que elegiste y dos o tres formas distintas de distribuir cada acorde, si llegas a escribirlo en una partitura, mucho mejor!
 
 Explorá sin miedo y seguí tu oído.
